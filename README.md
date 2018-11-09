@@ -1,2 +1,2 @@
 # python-challenge
-This is for homework 3 
+Demonstrating how to use CSV files when using Python. 
